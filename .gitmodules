@@ -1,0 +1,12 @@
+[submodule "react-native/rnDemo"]
+	path = react-native/rnDemo
+	url = https://codehub.devcloud.cn-east-3.huaweicloud.com/jwt00001/react-native.git
+[submodule "backend/GroupBuy"]
+	path = backend/GroupBuy
+	url = https://codehub.devcloud.cn-east-3.huaweicloud.com/jwt00001/backend.git
+[submodule "microservice_backend/groupbuy_cloud"]
+	path = microservice_backend/groupbuy_cloud
+	url = https://codehub.devcloud.cn-east-3.huaweicloud.com/jwt00001/microservice_backend.git
+[submodule "react_web"]
+	path = react_web
+	url = https://codehub.devcloud.cn-east-3.huaweicloud.com/jwt00001/react_web.git
